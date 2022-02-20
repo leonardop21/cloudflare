@@ -1,0 +1,17 @@
+{
+    "name": "leo/clear-cache",
+    "description": "Limpar o cache no CloudFlare através de api",
+    "autoload": {
+        "psr-4": {
+            "Repository\\" : "Repository/",
+            "Services\\" : "Services/",
+            "Publics\\" : "Public/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonardo Nascimento",
+            "email": "dev@leonardonascimento.dev"
+        }
+    ]
+}
